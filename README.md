@@ -28,40 +28,39 @@
 13. Write a C program to print all even numbers between 1 to 100. – using while loop
 
 ## DO WHILE LOOPS
-17. Write a C program to count number of digits in a number.
-18. Write a C program to swap first and last digits of a number.
+14. Write a C program to count number of digits in a number.
 
 ## FOR LOOPS
-19. Write a C program to calculate factorial of a number.
-20. Write a C program to find sum of all prime numbers between 1 to n.
-21. Write a C program to print all Armstrong numbers between 1 to n.
-22. Write a C program to print Fibonacci series up to n terms.
+15. Write a C program to calculate factorial of a number.
+16. Write a C program to find sum of all prime numbers between 1 to n.
+17. Write a C program to check whether the number is armstrong or not.
+18. Write a C program to print Fibonacci series up to n terms.
 
 ## STAR PATTERNS
 **(replace '&' with'*')**   
 
-23. 
+19. 
 &&&&&   
 &&&&&   
 &&&&&   
 &&&&&   
 &&&&&    
 
-24. 
+20. 
   &     
   &&        
   &&&   
   &&&&  
   &&&&&
   
-25. 
+21. 
   &&&&&     
   &&&&  
   &&&   
   &&    
   &
   
-26. 
+22. 
 _ ___ &    
 ___ &&&   
 _ &&&&&  
@@ -70,27 +69,26 @@ _ &&&&&
 
 
 ## NUMBER PATTERNS
-27.  
+23.  
 1   
 12  
 123  
 1234    
 12345   
 
-28. 
+24. 
 1   
 2 1     
 3 2 1   
 …
 
-29. 
+25. 
 1   
 1 12       
 1 12 123    
 …
  
-
-30. 
+26. 
 1   
 1 21    
 1 21 321    
@@ -99,12 +97,12 @@ _ &&&&&
 
 
 ## FUNCTIONS
-31. Write a C program to find cube of any number using function.
-32. Write a C program to find all prime numbers between given interval using functions.
-33. Write a C program to print all Armstrong numbers between given interval using functions.
+27. Write a C program to find cube of any number using function.
+28. Write a C program to find all prime numbers between given interval using functions.
+29. Write a C program to check prime, armstrong and perfect numbers using functions.
 
 ## ARRAYS 1D
-34. Write a C program to find sum of all array elements
+30. Write a C program to find sum of all array elements
 35. Write a C program to find maximum and minimum element in an array.
 36. Write a C program to count total number of even and odd elements in an array.
 37. Write a C program to count frequency of each element in an array.
