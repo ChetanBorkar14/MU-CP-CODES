@@ -10,25 +10,22 @@
 ## BITWISE OPERATOR
 
 06. Write a C program to convert decimal to binary number system using bitwise operator.
-07. Write a C program to rotate bits of a given number.
-08. Write a C program to count total zeros and ones in a binary number.
-09. Write a C program to check whether a number is even or odd using bitwise operator.
+07. Write a C program to count total zeros and ones in a binary number.
+08. Write a C program to check whether a number is even or odd using bitwise operator.
 
 ## CONDITIONAL OPERATOR
 
-10. Write a C program to find maximum between three numbers using conditional operator.
-11. Write a C program to check whether year is leap year or not using conditional operator.
+09. Write a C program to find maximum between three numbers using conditional operator.
 
 ## IF ELSE
-12. Write a C program to find maximum between two numbers.
-13. Write a C program to check whether a number is negative, positive or zero.
+10. Write a C program to find maximum between two numbers.
+11. Write a C program to check whether a number is negative, positive or zero.
 
 ## SWITCH STATEMENT
-14. Write a C program to create Simple Calculator using switch case.
+12. Write a C program to create Simple Calculator using switch case.
 
 ## WHILE LOOPS
-15. Write a C program to print all natural numbers in reverse (from n to 1). – using while loop
-16. Write a C program to print all even numbers between 1 to 100. – using while loop
+13. Write a C program to print all even numbers between 1 to 100. – using while loop
 
 ## DO WHILE LOOPS
 17. Write a C program to count number of digits in a number.
@@ -40,98 +37,116 @@
 21. Write a C program to print all Armstrong numbers between 1 to n.
 22. Write a C program to print Fibonacci series up to n terms.
 
-Write a C program to print all ASCII character with their values.
-
 ## STAR PATTERNS
-23. !
-    *****   
-    *****   
-    *****
-    *****
-    *****
-  
-24. 
-  *****
-  *   *
-  *   *
-  *   *
-  *****
+**(replace '&' with'*')**   
 
-25. *
-  **
-  ***
-  ****
-  *****
+23. 
+&&&&&   
+&&&&&   
+&&&&&   
+&&&&&   
+&&&&&    
+
+24. 
+  &     
+  &&        
+  &&&   
+  &&&&  
+  &&&&&
   
-26. *****
-  ****
-  ***
-  **
-  *
+25. 
+  &&&&&     
+  &&&&  
+  &&&   
+  &&    
+  &
   
-27.  *
-   ***
-  *****
- *******
-*********
+26. 
+_ ___ &    
+___ &&&   
+_ &&&&&  
+&&&&&&&
+
+
 
 ## NUMBER PATTERNS
-1.  1   
-    12  
-    123  
-    1234    
-    12345   
+27.  
+1   
+12  
+123  
+1234    
+12345   
 
-2. CHECK ASSIGNMENT
+28. 
+1   
+2 1     
+3 2 1   
+…
+
+29. 
+1   
+1 12       
+1 12 123    
+…
+ 
+
+30. 
+1   
+1 21    
+1 21 321    
+1 21 321 4321   
+…
+
 
 ## FUNCTIONS
-1.Write a C program to find cube of any number using function.
-2.Write a C program to find all prime numbers between given interval using functions.
-3.Write a C program to print all Armstrong numbers between given interval using functions.
+31. Write a C program to find cube of any number using function.
+32. Write a C program to find all prime numbers between given interval using functions.
+33. Write a C program to print all Armstrong numbers between given interval using functions.
 
 ## ARRAYS 1D
-1.Write a C program to find sum of all array elements
-2.Write a C program to find maximum and minimum element in an array.
-3.Write a C program to count total number of even and odd elements in an array.
-4.Write a C program to count frequency of each element in an array.
-5.Write a C program to merge two array to third array IN ASCENDING ORDER.
-6.Write a C program to left rotate an array.
+34. Write a C program to find sum of all array elements
+35. Write a C program to find maximum and minimum element in an array.
+36. Write a C program to count total number of even and odd elements in an array.
+37. Write a C program to count frequency of each element in an array.
+38. Write a C program to merge two array to third array IN ASCENDING ORDER.
+39. Write a C program to left rotate an array.
 
 ## ARRAYS 2D
-1.Write a C program to find transpose of a matrix.
-2.Write a C program to multiply two matrices.
-3.Write a C program to check Symmetric matrix.
-4.Write a C program to interchange diagonals of a matrix.
-5.Write a C program to find determinant of a matrix.
+40. Write a C program to find transpose of a matrix.
+41. Write a C program to multiply two matrices.
+42. Write a C program to check Symmetric matrix.
+43. Write a C program to interchange diagonals of a matrix.
+44. Write a C program to find determinant of a matrix.
 
 ## STRINGS
-1.Write a C program to print CHETAN IS GOD
-2.Write a C program to convert lowercase string to uppercase.
-3.Write a C program to find total number of alphabets, digits or special character in a string.
-4.Write a C program to count total number of words in a string.
-5.Write a C program to find reverse of a string.
-6.Write a C program to check whether a string is palindrome or not.
+45. Write a C program to print CHETAN IS GOD
+46. Write a C program to convert lowercase string to uppercase.
+47. Write a C program to find total number of alphabets, digits or special character in a string.
+48. Write a C program to count total number of words in a string.
+49. Write a C program to find reverse of a string.
+50. Write a C program to check whether a string is palindrome or not.
 
 ## RECURSION
-1.Write a C program to find factorial of any number using recursion.
-2.Write a C program to find sum of elements of array using recursion.
-3.Write a C program to find maximum and minimum elements in array using recursion.
+51. Write a C program to find factorial of any number using recursion.
+52. Write a C program to find sum of elements of array using recursion.
+53. Write a C program to find maximum and minimum elements in array using recursion.
 
 ## POINTERS
-1.Write a C program to create, initialize and use pointers.
-2.Write a C program to swap two arrays using pointers.
-3.Write a C program to find length of string using pointers.
-4.Write a C program to return multiple value from function using pointers.
+54. Write a C program to create, initialize and use pointers.
+55. Write a C program to swap two arrays using pointers.
+56. Write a C program to find length of string using pointers.
+57. Write a C program to return multiple value from function using pointers.
 
 ## STRUCTS
-1.Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
-2.A class has n number of students. Each student has a record containing the following fields:- Name(single entity which contains space separated name, middle name, surname), Age, Branch, overall Score. Sort these students decreasingly by their scores.
-3.Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
+57. Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
+58. A class has n number of students. Each student has a record containing the following fields:- Name(single entity which contains space separated name, middle name, surname), Age, Branch, overall Score. Sort these students decreasingly by their scores.
+59. Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
 
 ## UNION
-1.Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
+60. Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
                                                                         Display array
                                                                         Insertion of data in an ordered array
                                                                         Deletion of data
                                                                         Sorting, merging, searching
 Write a menu driven program for the above operations with the help of switch case statement
+
