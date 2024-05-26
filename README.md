@@ -103,45 +103,42 @@ _ &&&&&
 
 ## ARRAYS 1D
 30. Write a C program to find sum of all array elements
-35. Write a C program to find maximum and minimum element in an array.
-36. Write a C program to count total number of even and odd elements in an array.
-37. Write a C program to count frequency of each element in an array.
-38. Write a C program to merge two array to third array IN ASCENDING ORDER.
-39. Write a C program to left rotate an array.
+31. Write a C program to find maximum and minimum element in an array.
+32. Write a C program to count total number of even and odd elements in an array.
+33. Write a C program to find mode of an array
+34. Write a C program to merge two array to third array IN ASCENDING ORDER.
+35. Write a C program to left rotate an array.
 
 ## ARRAYS 2D
-40. Write a C program to find transpose of a matrix.
-41. Write a C program to multiply two matrices.
-42. Write a C program to check Symmetric matrix.
-43. Write a C program to interchange diagonals of a matrix.
-44. Write a C program to find determinant of a matrix.
+36. Write a C program to find transpose of a matrix.
+37. Write a C program to multiply two matrices.
+38. Write a C program to find the maximum integer in the given 2-d matrix.
 
 ## STRINGS
-45. Write a C program to print CHETAN IS GOD
-46. Write a C program to convert lowercase string to uppercase.
-47. Write a C program to find total number of alphabets, digits or special character in a string.
-48. Write a C program to count total number of words in a string.
-49. Write a C program to find reverse of a string.
-50. Write a C program to check whether a string is palindrome or not.
+41. Write a C program to convert lowercase string to uppercase.
+42. Write a C program to find total number of alphabets, digits or special character in a string.
+43. Write a C program to count total number of words in a string.
+44. Write a C program to find reverse of a string.
+45. Write a C program to check whether a string is palindrome or not.
 
 ## RECURSION
-51. Write a C program to find factorial of any number using recursion.
-52. Write a C program to find sum of elements of array using recursion.
-53. Write a C program to find maximum and minimum elements in array using recursion.
+46. Write a C program to find factorial of any number using recursion.
+47. Write a C program to find sum of elements of array using recursion.
+48. Write a C program to find maximum and minimum elements in array using recursion.
 
 ## POINTERS
-54. Write a C program to create, initialize and use pointers.
-55. Write a C program to swap two arrays using pointers.
-56. Write a C program to find length of string using pointers.
-57. Write a C program to return multiple value from function using pointers.
+49. Write a C program to create, initialize and use pointers.
+52. Write a C program to swap two arrays using pointers.
+52. Write a C program to find length of string using pointers.
+53. Write a C program to return multiple value from function using pointers.
 
 ## STRUCTS
-57. Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
-58. A class has n number of students. Each student has a record containing the following fields:- Name(single entity which contains space separated name, middle name, surname), Age, Branch, overall Score. Sort these students decreasingly by their scores.
-59. Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
+54. Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
+55. A class has n number of students. Each student has a record containing the following fields:- Name(single entity which contains space separated name, middle name, surname), Age, Branch, overall Score. Sort these students decreasingly by their scores.
+56. Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
 
 ## UNION
-60. Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
+57. Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
                                                                         Display array
                                                                         Insertion of data in an ordered array
                                                                         Deletion of data
