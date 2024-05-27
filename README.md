@@ -115,16 +115,16 @@ _ &&&&&
 38. Write a C program to find the maximum integer in the given 2-d matrix.
 
 ## STRINGS
-41. Write a C program to convert lowercase string to uppercase.
-42. Write a C program to find total number of alphabets, digits or special character in a string.
-43. Write a C program to count total number of words in a string.
-44. Write a C program to find reverse of a string.
-45. Write a C program to check whether a string is palindrome or not.
+39. Write a C program to convert lowercase string to uppercase.
+40. Write a C program to find total number of alphabets, digits or special character in a string.
+41. Write a C program to count total number of words in a string.
+42. Write a C program to find reverse of a string.
+43. Write a C program to check whether a string is palindrome or not.
 
 ## RECURSION
-46. Write a C program to find factorial of any number using recursion.
-47. Write a C program to find sum of elements of array using recursion.
-48. Write a C program to find maximum and minimum elements in array using recursion.
+44. Write a C program to find factorial of any number using recursion.
+45. Write a C program to find sum of elements of array using recursion.
+46. Write a C program to find maximum and minimum elements in array using recursion.
 
 ## POINTERS
 49. Write a C program to create, initialize and use pointers.
