@@ -116,7 +116,7 @@ _ &&&&&
 
 ## STRINGS
 39. Write a C program to convert lowercase string to uppercase.
-40. Write a C program to find total number of alphabets, digits or special character in a string.
+40. Write a C program to count total number of letters in a string.
 41. Write a C program to count total number of words in a string.
 42. Write a C program to find reverse of a string.
 43. Write a C program to check whether a string is palindrome or not.
@@ -127,18 +127,17 @@ _ &&&&&
 46. Write a C program to find maximum and minimum elements in array using recursion.
 
 ## POINTERS
-49. Write a C program to create, initialize and use pointers.
-52. Write a C program to swap two arrays using pointers.
-52. Write a C program to find length of string using pointers.
-53. Write a C program to return multiple value from function using pointers.
+47. Write a C program to copy an array to another array using pointers
+48. Write a C program to swap two arrays using pointers.
+49. Write a C program to find length of string using pointers.
+50. Write a C program to sort an array using pointer in ascending order.
 
 ## STRUCTS
-54. Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
-55. A class has n number of students. Each student has a record containing the following fields:- Name(single entity which contains space separated name, middle name, surname), Age, Branch, overall Score. Sort these students decreasingly by their scores.
-56. Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
+51. Accept a record of only 1 student. Record of a student has following information: Name (single entity which contains space separated name, middle name, surname), Age, email id, overall GPA
+52. Write a program to design a structure Employee with members Employee No, Employee Name, Experience and salary. Read the information of 100 employees and display employee information that is having 5 years or more experience and salary less than Rs. 10,000.
 
 ## UNION
-57. Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
+53. Write a program to carry out operations on a single dimensional array:Reading an array (populating with int data) 
                                                                         Display array
                                                                         Insertion of data in an ordered array
                                                                         Deletion of data
