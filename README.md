@@ -4,7 +4,8 @@
 01. Write a C program to enter two numbers and perform all arithmetic operations.
 02. Write a C program to enter length and breadth of a rectangle and find its perimeter and area.
 03. Write a C program to convert days into years, weeks and days.
-04. Write a C program to enter any integer and calculate its square root.
+04. [a]Write a C program to enter any integer and calculate its square root.     
+    [b]Write a C progrm to Display whether a given integer is a perfect square(without using sqrt function)
 05. Write a C program to enter marks of five subjects and calculate total, average and percentage.
 
 ## BITWISE OPERATOR
@@ -74,7 +75,7 @@ _ &&&&&
 12  
 123  
 1234    
-12345   
+12345    
 
 24. 
 1   
